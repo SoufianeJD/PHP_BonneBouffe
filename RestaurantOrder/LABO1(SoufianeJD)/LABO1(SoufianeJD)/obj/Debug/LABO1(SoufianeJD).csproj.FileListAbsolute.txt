@@ -1,9 +1,0 @@
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\bin\Debug\LABO1(SoufianeJD).exe.config
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\bin\Debug\LABO1(SoufianeJD).exe
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\bin\Debug\LABO1(SoufianeJD).pdb
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1(SoufianeJD).csprojAssemblyReference.cache
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1_SoufianeJD_.Form1.resources
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1_SoufianeJD_.Properties.Resources.resources
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1(SoufianeJD).csproj.GenerateResource.cache
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1(SoufianeJD).exe
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\LABO1(SoufianeJD)\LABO1(SoufianeJD)\LABO1(SoufianeJD)\obj\Debug\LABO1(SoufianeJD).pdb

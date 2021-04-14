@@ -1,9 +1,0 @@
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\bin\Debug\TP3-exo4(SoufianeJD).exe.config
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\bin\Debug\TP3-exo4(SoufianeJD).exe
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\bin\Debug\TP3-exo4(SoufianeJD).pdb
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3-exo4(SoufianeJD).csprojAssemblyReference.cache
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3_exo4_SoufianeJD_.Form1.resources
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3_exo4_SoufianeJD_.Properties.Resources.resources
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3-exo4(SoufianeJD).csproj.GenerateResource.cache
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3-exo4(SoufianeJD).exe
-C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP3(SoufianeJD)\TP3-exo4\TP3-exo4(SoufianeJD)\TP3-exo4(SoufianeJD)\obj\Debug\TP3-exo4(SoufianeJD).pdb

@@ -1,0 +1,15 @@
+toto -= 2;
+for (int=val ; val > 0 ; i-=2 )
+
+if number entré par user est pair
+
+sinon pas pair
+
+// 1- récpu val
+//2- si val pair alors
+upup
+for val decre vers 0 faire affiche val -=2
+
+sinon val = val-1
+
+fin....

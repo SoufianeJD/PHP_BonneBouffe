@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\bin\Debug\TPv1.exe.config
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\bin\Debug\TPv1.exe
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\bin\Debug\TPv1.pdb
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.Form1.resources
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.Properties.Resources.resources
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.exe
+C:\Users\Asus\Desktop\DEC Info De Gestion\S2 New\CS Programmation OB\Programmes\TP1\TPv1\TPv1\obj\Debug\TPv1.pdb
